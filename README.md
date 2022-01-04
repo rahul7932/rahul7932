@@ -2,9 +2,8 @@
 
 #### About Me 
 - 🧑🏽‍🎓 CS/Econ Student at UC Berkeley
-- 👨🏽‍💻 Full-stack mobile app developer
+- 👨🏽‍💻 Mobile app developer
 - 🧑🏽‍🔬 Published deep learning researcher
-- 🤵🏽 Entrepreneur
 
 #### Things I'm Doing
 - 🔭 I’m currently working on a new idea surrounding the improvement of social networks.
