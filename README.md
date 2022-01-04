@@ -1,4 +1,4 @@
-### Rahul Kumar 🤖🚀😎
+### Rahul Kumar 🚀😎
 
 #### About Me 
 - 🧑🏽‍🎓 CS/Econ/Entrepeurship Student at UC Berkeley
