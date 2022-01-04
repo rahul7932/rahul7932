@@ -1,7 +1,7 @@
 # Rahul Kumar 🚀😎
 
 #### About Me 
-- 🧑🏽‍🎓 CS/Econ/Entrepeurship Student at UC Berkeley
+- 🧑🏽‍🎓 CS/Econ Student at UC Berkeley
 - 👨🏽‍💻 Full-stack mobile app developer
 - 🧑🏽‍🔬 Published deep learning researcher
 - 🤵🏽 Entrepreneur
