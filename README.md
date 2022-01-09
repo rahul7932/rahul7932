@@ -2,7 +2,7 @@
 
 #### About Me 
 - 🧑🏽‍🎓 CS/Econ Student at UC Berkeley
-- 🌱 Learning Javascript and React to improve my web-development skills!
+- 🌱 Learning Javascript and React
 - 📫 Email: rahulkm@berkeley.edu
 
 #### Streaks
