@@ -2,7 +2,6 @@
 
 #### About Me 
 - 🧑🏽‍🎓 CS/Econ Student at UC Berkeley
-- 🌱 Learning Javascript and React
 - 📫 Email: rahulkm@berkeley.edu
 
 #### Contributions
