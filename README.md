@@ -4,34 +4,17 @@
 - 🎓 **Education:** BA in Computer Science & BA in Economics from UC Berkeley
 - 🖥️ **Languages:** Python, Swift, Java, JavaScript, Dart
 - 🛠️ **Tools:** Django, ReactJS, TensorFlow, Git, Docker, Firebase
-- 🌍 **Interests:** Geopolitics, World History, Writing 📖, Basketball 🏀, Machine Learning 🤖, Mobile App Dev 📱, Product Design 🎨
-
----
+- 🌍 **Interests:** Geopolitics, Writing, Basketball, Machine Learning, Mobile App Dev, Product Design
 
 ### 🚀 Work Experience
-- **Cisco Systems** 🌐
-  - Software Engineer Intern 🛠️
-    - Automated lab equipment reservations 🗓️
-    - Built a Webex Bot for internship resources ⚙️
-    - Exposure to DevOps & CI/CD 🔄
-    
-- **Loyee.io** 🌉
-  - Fullstack Software Engineer Intern 🌐📲
-    - Developed web-scraping Chrome extension 🔍
-    - Revamped web interface with MERN stack 🎨
-    - Analyzed CRM data with 500k+ entries 🔢
-
-- **Stanford University - Pasca Lab** 🎓
-  - Deep Learning Research Assistant 🧠
-    - Implemented Faster RCNN with PyTorch 🔍
-    - Developed image labeling & processing scripts 📸
+- **Software Engineer Intern at Cisco Systems** 🌐
+  - Automated lab equipment reservations, built a Webex Bot for internship resources, exposure to DevOps & CI/CD   
+- **Fullstack Software Engineer Intern at Loyee.io** 🌉
+  - Developed web-scraping Chrome extension, revamped web interface with MERN stack, analyzed CRM data with 500k+ entries
+- **Deep Learning Research Assistant at Stanford University - Pasca Lab** 🎓
+  - Implemented Faster RCNN with PyTorch, developed image labeling & processing scripts
 
 ### 🔍 Projects
 - **bump** - hangout planner app 📱
 - **Sweasy** - automated resume tailoring 📜
 - **CoronaNet** - COVID-19 detection using Deep Learning 🦠🔍
-
----
-
-❤️ Let's connect and collaborate! 🌍🚀
-
