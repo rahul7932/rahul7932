@@ -1,4 +1,4 @@
-# Rahul Kumar
+# Rahul Kumar 🚀
 
 ### 🌟 About Me
 - 🎓 **Education:** BA in Computer Science & BA in Economics from UC Berkeley
