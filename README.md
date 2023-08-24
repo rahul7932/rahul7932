@@ -1,6 +1,6 @@
 # Rahul Kumar
 
-🌟 **About Me**
+### 🌟 About Me
 - 🎓 **Education:** BA in Computer Science & BA in Economics from UC Berkeley
 - 🖥️ **Languages:** Python, Swift, Java, JavaScript, Dart
 - 🛠️ **Tools:** Django, ReactJS, TensorFlow, Git, Docker, Firebase
@@ -8,7 +8,7 @@
 
 ---
 
-🚀 **Work Experience**
+### 🚀 Work Experience
 - **Cisco Systems** 🌐
   - Software Engineer Intern 🛠️
     - Automated lab equipment reservations 🗓️
@@ -26,9 +26,7 @@
     - Implemented Faster RCNN with PyTorch 🔍
     - Developed image labeling & processing scripts 📸
 
----
-
-🔍 **Projects**
+### 🔍 Projects
 - **bump** - hangout planner app 📱
 - **Sweasy** - automated resume tailoring 📜
 - **CoronaNet** - COVID-19 detection using Deep Learning 🦠🔍
