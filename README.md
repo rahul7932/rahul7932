@@ -7,11 +7,13 @@
 - 🌍 **Interests:** Geopolitics, Writing, Basketball, Machine Learning, Mobile App Dev, Product Design
 
 ### 🚀 Work Experience
-- **Software Engineer Intern at Cisco Systems** 🌐
+- **Software Engineer Intern at AWS** 
+  - Build tons of AWS infra using TypeScript, built a serverless backend with Go, used Langchain for ChatBot
+- **Software Engineer Intern at Cisco Systems** 
   - Automated lab equipment reservations, built a Webex Bot for internship resources, exposure to DevOps & CI/CD   
-- **Fullstack Software Engineer Intern at Loyee.io** 🌉
+- **Fullstack Software Engineer Intern at Loyee.io**
   - Developed web-scraping Chrome extension, revamped web interface with MERN stack, analyzed CRM data with 500k+ entries
-- **Deep Learning Research Assistant at Stanford University - Pasca Lab** 🎓
+- **Deep Learning Research Assistant at Stanford University - Pasca Lab** 
   - Implemented Faster RCNN with PyTorch, developed image labeling & processing scripts
 
 ### 🔍 Projects
